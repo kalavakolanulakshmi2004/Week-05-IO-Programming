@@ -1,6 +1,5 @@
 # Week 5: I/O Programming and Advanced Java Concepts
-Overview\
-In the second half of Week 5, the focus shifted to handling structured data formats like CSV and JSON, along with diving deep into Java Annotations, Reflection, and Design Principles.\
+This week mainly focused on shifted to handling structured data formats like CSV and JSON, along with diving deep into Java Annotations, Reflection, and Design Principles.\
 These topics are crucial for working with real-world data and implementing flexible, maintainable software systems.\
 Topics Covered
 # Day 1: CSV Data Handling
